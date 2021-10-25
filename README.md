@@ -1,2 +1,2 @@
-# css-cv
-my cv create with css
+# cv
+cv for html course
